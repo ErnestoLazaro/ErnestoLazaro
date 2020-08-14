@@ -1,4 +1,7 @@
-### Hi there 👋
+### 🦇🦇 Hi there this is my Github profile, welcome 🕷️ 🧛🏻‍♂️ 🦇
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErnestoLazaro&show_icons=true&theme=radical)
+
 
 <!--
 **ErnestoLazaro/ErnestoLazaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
